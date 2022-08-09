@@ -1,10 +1,9 @@
-# presentacion-
+# Hola!!, mi nombre es Facundo Barneche
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
+Tengo 31 años y vivo en Santos Lugares.
 
-Ya saben usar git!
+A principios del 2021 empezé con la tecnicatura en programación informática en esta hermosa facultad.
+
+Despues de unos pocos meses de estudiar de forma autodidacta, me dí cuenta que me gustaba tanto la programación que quería seguir una carrera de manera académica.
+
+En la actualidad podría decir que trabajo como desarrollador, ya que la semana que viene arranco mi primer empleo en el mundo de la tecnología =D!!
